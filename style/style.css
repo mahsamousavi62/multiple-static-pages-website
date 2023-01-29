@@ -1,0 +1,24 @@
+body {
+  background-color: #f8e8a6;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+
+.links{
+    display: flex;
+     justify-content: center;
+}
+a {
+  color: green;
+  
+   margin: 0 10px;
+}
+img{
+    margin: 30px auto;
+    display: block;
+    border-radius: 20px;
+}
